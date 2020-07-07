@@ -1,0 +1,15 @@
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\bin\Debug\Metnums.exe.config
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\bin\Debug\Metnums.exe
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\bin\Debug\Metnums.pdb
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\bin\Debug\Metnums.xml
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\obj\Debug\Metnums.vbprojResolveAssemblyReference.cache
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\obj\Debug\Metnums.Form1.resources
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\obj\Debug\Metnums.Resources.resources
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\obj\Debug\Metnums.vbproj.GenerateResource.Cache
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\obj\Debug\Metnums.exe
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\obj\Debug\Metnums.xml
+c:\users\xylphtice grimwell\documents\visual studio 2015\Projects\Metnums\Metnums\obj\Debug\Metnums.pdb
+D:\Metnums\Metnums\bin\Debug\Metnums.exe.config
+D:\Metnums\Metnums\obj\Debug\Metnums.exe
+D:\Metnums\Metnums\obj\Debug\Metnums.xml
+D:\Metnums\Metnums\obj\Debug\Metnums.pdb
